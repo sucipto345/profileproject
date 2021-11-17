@@ -21,3 +21,32 @@ body {
      border-radius: 10px;
      border: 1px solid #eeeeee;
  }
+ .img {
+    background-image: url(IMG-20211018-WA0036.jpg);
+    background-color: #eaeaea;
+    background-size: cover;
+    border-radius:  100px;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    border: 1px solid #eaeaea;
+ }
+ h1 {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    color: #6944ff
+ }
+ .text {
+    text-align: center;
+    font-size: 15px;
+    margin: 0;
+    color: #324e63;
+ }
+ p{
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 450px;
+    height: auto;
+    color: #324e63;
+ }
